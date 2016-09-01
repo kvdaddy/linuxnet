@@ -1,1 +1,0 @@
-/usr/bin/cc     CMakeFiles/ex9_4.dir/ex9_4.c.o  -o ex9_4 -rdynamic -lpthread 

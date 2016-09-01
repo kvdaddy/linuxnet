@@ -1,1 +1,0 @@
-/usr/bin/cc     CMakeFiles/ex14_1.dir/ex14_1.c.o  -o ex14_1 -rdynamic -lpthread 

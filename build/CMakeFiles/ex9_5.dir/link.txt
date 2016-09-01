@@ -1,1 +1,0 @@
-/usr/bin/cc     CMakeFiles/ex9_5.dir/ex9_5.c.o  -o ex9_5 -rdynamic 
