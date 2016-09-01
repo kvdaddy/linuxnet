@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhanglm/work/network/ex11_3.cc
+list_timer.h
+/home/zhanglm/work/network/list_timer.h
+unistd.h
+-
+string.h
+-
+fcntl.h
+-
+errno.h
+-
+sys/epoll.h
+-
+signal.h
+-
+assert.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+/home/zhanglm/work/network/list_timer.cc
+list_timer.h
+/home/zhanglm/work/network/list_timer.h
+stdio.h
+-
+
+/home/zhanglm/work/network/list_timer.h
+time.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+

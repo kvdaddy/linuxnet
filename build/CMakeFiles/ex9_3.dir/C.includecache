@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhanglm/work/network/ex9_3.c
+sys/types.h
+-
+sys/socket.h
+-
+sys/epoll.h
+-
+netinet/in.h
+-
+fcntl.h
+-
+stdio.h
+-
+string.h
+-
+unistd.h
+-
+errno.h
+-
+stdlib.h
+-
+stdbool.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/ex7_1.dir/ex7_1.c.o  -o ex7_1 -rdynamic 

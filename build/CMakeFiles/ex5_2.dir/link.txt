@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/ex5_2.dir/ex5_2.c.o  -o ex5_2 -rdynamic 

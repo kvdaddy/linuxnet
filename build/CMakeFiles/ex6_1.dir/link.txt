@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/ex6_1.dir/ex6_1.c.o  -o ex6_1 -rdynamic 
